@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         1SB Universal Journey Runner (all LOBs · Demo/Dev/Test · distributor portals)
 // @namespace    1silverbullet.autofill
-// @version      5.34.0
+// @version      5.38.0
 // @description  One script for every 1SB portal: asks Assisted / DIY → environment → LOB → category → product, then fills every page with consistent test data and clicks through to the Thank You page. Records PASS/BLOCKED per journey (with the failing API) and, in batch mode, moves on to the next product when a journey cannot proceed.
 // @match        https://login.demo.insurance.1silverbullet.tech/*
 // @match        https://login.dev.insurance.1silverbullet.tech/*
